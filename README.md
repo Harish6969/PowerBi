@@ -2,6 +2,8 @@
 
 This project presents an **interactive Power BI dashboard** to analyze Uber Eats order data, focusing on various metrics such as total sales, average order ratings, and item performance across different outlets and locations. The dashboard leverages advanced data modeling and visualization techniques to help stakeholders make data-driven decisions.
 
+![image](https://github.com/user-attachments/assets/6c5b6e54-762a-403e-af25-87950e4e14f9)
+
 ## 📊 Dashboard Overview
 
 The **Uber Eats Order Analysis Dashboard** offers insights into:
